@@ -1,2 +1,2 @@
 # PROF-Contracts
-Contracts exercise #1
+Contracts exercise 1#
